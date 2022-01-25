@@ -1,1 +1,1 @@
-[![Samuel Webster's GitHub stats](https://github-readme-stats.vercel.app/api?username=samjwebster)](https://github.com/samjwebster/github-readme-stats)
+[![Samuel Webster's GitHub stats](https://github-readme-stats.vercel.app/api?username=samjwebster&show_icons=true&theme=nightowl)](https://github.com/samjwebster/github-readme-stats)

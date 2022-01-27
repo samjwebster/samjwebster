@@ -1,4 +1,4 @@
-<h1>👋 hello, my name is sam webster</h1> <br>
+<h2>👋 hello! my name is sam webster</h1> <br>
   <h3>⬅️ welcome to my github!</h3> <br>
   <p>⬇️ look around, stay for a while</p> <br>
   

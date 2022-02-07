@@ -1,6 +1,6 @@
-<h2>👋 hello! my name is sam webster</h1> <br>
-  <h3>⬅️ welcome to my github!</h3> <br>
-  <p>⬇️ look around</p> <br>
+<h3>👋 hello! my name is sam webster. welcome to my github!</h3> <br>
+<p>i am a computer science student at the university of notre dame who is passionate about creating anything and everything.<br>
+  feel free to reach out!</p> <br>
   
   <!--- dynamic github stats, courtesy of https://github.com/anuraghazra--->
   <a href="https://github.com/samjwebster/github-readme-stats">
